@@ -1,0 +1,3 @@
+﻿  bai tap tinh diem.cpp
+D:\cppbasics-d05\bai tap tinh diem\bai tap tinh diem.cpp(71,57): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  bai tap tinh diem.vcxproj -> D:\cppbasics-d05\Debug\bai tap tinh diem.exe

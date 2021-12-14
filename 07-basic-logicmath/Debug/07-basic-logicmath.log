@@ -1,0 +1,5 @@
+﻿  man3.cpp
+D:\cppbasics-d05\07-basic-logicmath\man3.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+D:\cppbasics-d05\07-basic-logicmath\man3.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+D:\cppbasics-d05\07-basic-logicmath\man3.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+  07-basic-logicmath.vcxproj -> D:\cppbasics-d05\Debug\07-basic-logicmath.exe
