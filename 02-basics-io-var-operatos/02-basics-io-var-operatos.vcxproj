@@ -24,6 +24,7 @@
     <ProjectGuid>{fc263e16-68d2-41e8-aab2-efc412b151dc}</ProjectGuid>
     <RootNamespace>My02basicsiovaroperatos</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>nhập-tên-tuổi-nơi-sinh man0</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

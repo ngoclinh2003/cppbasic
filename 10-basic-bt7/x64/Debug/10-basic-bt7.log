@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (10-basic-bt7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  man6.cpp
+  10-basic-bt7.vcxproj -> D:\ppbasic\cppbasic\x64\Debug\in- tổng-các-số-nguyên-từ-0-đến-k man6.exe

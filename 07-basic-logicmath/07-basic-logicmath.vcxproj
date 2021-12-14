@@ -24,6 +24,7 @@
     <ProjectGuid>{af5f11af-eb17-4176-bf2a-8f2188d2f565}</ProjectGuid>
     <RootNamespace>My07basiclogicmath</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>nhập-min-max man3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

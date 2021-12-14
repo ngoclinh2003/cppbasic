@@ -1,0 +1,3 @@
+﻿  man1.cpp
+D:\ppbasic\cppbasic\03\man1.cpp(38,57): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  03.vcxproj -> D:\ppbasic\cppbasic\x64\Debug\nhập-.exe

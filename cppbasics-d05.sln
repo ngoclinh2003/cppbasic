@@ -5,21 +5,25 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppbasics-d05", "cppbasics-d05\cppbasics-d05.vcxproj", "{81637121-3FBA-4085-ADDD-8D67A3272475}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-basics-io-var-operatos", "02-basics-io-var-operatos\02-basics-io-var-operatos.vcxproj", "{FC263E16-68D2-41E8-AAB2-EFC412B151DC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhập-tên-tuổi-nơi-sinh man0", "02-basics-io-var-operatos\02-basics-io-var-operatos.vcxproj", "{FC263E16-68D2-41E8-AAB2-EFC412B151DC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-base-type-operatos-loop-condition", "03\03.vcxproj", "{B2AA5558-1EFD-4147-B72D-FC32A9E5852F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhập-tên-và-điểm-số man1", "03\03.vcxproj", "{B2AA5558-1EFD-4147-B72D-FC32A9E5852F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-basic-logic-loop-array", "06-basic-logic-loop-array\06-basic-logic-loop-array.vcxproj", "{F1A5EBD7-99D2-45AF-BCFB-CE0DC9C401C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "phương-trinh-bậc-1 man2", "06-basic-logic-loop-array\06-basic-logic-loop-array.vcxproj", "{F1A5EBD7-99D2-45AF-BCFB-CE0DC9C401C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-basic-logicmath", "07-basic-logicmath\07-basic-logicmath.vcxproj", "{AF5F11AF-EB17-4176-BF2A-8F2188D2F565}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhập-min-max man3", "07-basic-logicmath\07-basic-logicmath.vcxproj", "{AF5F11AF-EB17-4176-BF2A-8F2188D2F565}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08basic-bt5.cpp", "basic-bt5.cpp\basic-bt5.cpp.vcxproj", "{141DA995-1975-4F9D-8E7F-CE51F3C8E74E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tính-tổng-các-giai-thừa man4", "basic-bt5.cpp\basic-bt5.cpp.vcxproj", "{141DA995-1975-4F9D-8E7F-CE51F3C8E74E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-basic-logicmath2", "09-basic-logicmath2\09-basic-logicmath2.vcxproj", "{1FD1475A-B0E8-44F7-9463-97F471521C76}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhập-số-lớn-hơn-và-in-ra-chữ man5", "09-basic-logicmath2\09-basic-logicmath2.vcxproj", "{1FD1475A-B0E8-44F7-9463-97F471521C76}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-basic-bt7", "10-basic-bt7\10-basic-bt7.vcxproj", "{73BE7993-FDDB-4E6F-BD99-5654B85A7FB8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "in- tổng-các-số-nguyên-từ-0-đến-k man6", "10-basic-bt7\10-basic-bt7.vcxproj", "{73BE7993-FDDB-4E6F-BD99-5654B85A7FB8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bai tap tinh diem", "bai tap tinh diem\bai tap tinh diem.vcxproj", "{B6F8156D-A9E9-4AFE-9ACA-1E8687B48315}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bai tap tinh tien nuoc", "bai tap tinh tien nuoc\bai tap tinh tien nuoc.vcxproj", "{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cộng-các-phần-tử man7", "cộng-các-phần-tử man7\cộng-các-phần-tử man7.vcxproj", "{33E351B1-65AC-4EC1-A0BA-970A50097D61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +105,22 @@ Global
 		{B6F8156D-A9E9-4AFE-9ACA-1E8687B48315}.Release|x64.Build.0 = Release|x64
 		{B6F8156D-A9E9-4AFE-9ACA-1E8687B48315}.Release|x86.ActiveCfg = Release|Win32
 		{B6F8156D-A9E9-4AFE-9ACA-1E8687B48315}.Release|x86.Build.0 = Release|Win32
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Debug|x64.ActiveCfg = Debug|x64
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Debug|x64.Build.0 = Debug|x64
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Debug|x86.Build.0 = Debug|Win32
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Release|x64.ActiveCfg = Release|x64
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Release|x64.Build.0 = Release|x64
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Release|x86.ActiveCfg = Release|Win32
+		{4DE3FD8F-A3BF-49E3-B0CF-5122672B4557}.Release|x86.Build.0 = Release|Win32
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Debug|x64.ActiveCfg = Debug|x64
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Debug|x64.Build.0 = Debug|x64
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Debug|x86.ActiveCfg = Debug|Win32
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Debug|x86.Build.0 = Debug|Win32
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Release|x64.ActiveCfg = Release|x64
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Release|x64.Build.0 = Release|x64
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Release|x86.ActiveCfg = Release|Win32
+		{33E351B1-65AC-4EC1-A0BA-970A50097D61}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

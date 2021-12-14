@@ -6,43 +6,18 @@
 
 using namespace std;
 
-void nhap(int* arr, int n)
-{
-
-	for (int i = 1; i <= n; i++)
-	{
-		cout << " nhap phan tu cua arr [" << i << "] = ";
-		cin >> arr[i];
-	}
-}
-int TinhGT(int n) {
-	int gt{ 1 };
-	for (auto i{ 1 }; i < n; i++)
-	{
-		gt *= i;
-	}
-	return gt;
-}
-
-double Tinh(int* arr, int n)
-{
-	int sum{ 0 };
-	for (int i = 1; i <= n; i++)
-	{
-		sum = sum + TinhGT(arr[i]);
-	}
-	return sum;
-}
-
-
 int main()
 {
-	int n;
-	cout << "Number of phantu: ";
-	cin >> n;
-	int* arr = new int[n];
-	nhap(arr, n);
-	cout << Tinh(arr, n);
+	int k;
+	int b;
+	cout << " Enter an integer k: ";
+	cin >> k;
+	for (int i = 1; i <= k; i++);
+	cin.ignore(1000, '\n');
+
+	b = k + 1;
+	cout << " Print the sum of all integer: " << b << '\n';
+
 	return 0;
 }
   

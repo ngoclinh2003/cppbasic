@@ -24,7 +24,7 @@
     <ProjectGuid>{141da995-1975-4f9d-8e7f-ce51f3c8e74e}</ProjectGuid>
     <RootNamespace>basicbt5cpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>08basic-bt5.cpp</ProjectName>
+    <ProjectName>tính-tổng-các-giai-thừa man4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

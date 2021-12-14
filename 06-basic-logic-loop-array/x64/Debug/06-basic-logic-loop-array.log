@@ -1,0 +1,3 @@
+﻿  man2.cpp
+D:\ppbasic\cppbasic\06-basic-logic-loop-array\man2.cpp(25,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  06-basic-logic-loop-array.vcxproj -> D:\ppbasic\cppbasic\x64\Debug\06-basic-logic-loop-array.exe

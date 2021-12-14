@@ -24,6 +24,7 @@
     <ProjectGuid>{f1a5ebd7-99d2-45af-bcfb-ce0dc9c401c7}</ProjectGuid>
     <RootNamespace>My06basiclogiclooparray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>phương-trinh-bậc-1 man2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

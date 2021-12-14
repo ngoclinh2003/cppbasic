@@ -5,45 +5,28 @@
 #include <string>
 using namespace std;
 
-void nhap(int* arr, int n) {
-	for (size_t i = 0; i < n; i++)
-	{
-		cout << " nhap phan tu cua arr [" << i << "] = ";
-		cin >> arr[i];
-	}
-}
-int	Timmax(int* arr, int n) {
-	int max = arr[0];
-	for (size_t i = 1; i < n; i++)
-	{
-		if (arr[i] > max) {
-			max = arr[i];
-		}
-	}
-	return max;
-}
-int	Timmin(int* arr, int n) {
-	int min = arr[0];
-	for (size_t i = 1; i < n; i++)
-	{
-		if (arr[i] < min) {
-			min = arr[i];
-		}
-	}
-	return min;
-}
 int main()
 {
-	int n; // so phan tu cua mang
-	cout << "Number of phan tu: ";
-	cin >> n;
+std::cout << " input 2 intergers print to console max, min\n";
+int a;
+int b;
 
-	int* arr = new int[n]; // su dung mang dong
+cout << " Enter two number randomly: ";
+cin >> a;
+cin >> b;
 
-	nhap(arr, n);
-	int min = Timmin(arr, n);
-	int max = Timmax(arr, n);
-	cout << "\nMin = " << min << "\n" << "Max =  " << max << endl;
+if (a > b) {
+	cout << a << " is the max number" << endl;
+	cout << b << " is the min number" << endl;
+}
+else if (a < b) {
+	cout << b << " is the max number" << endl;
+	cout << a << " is the min number" << endl;
+}
+else {
+	cout << " Error" << endl;
+}
+return 0;
 }
 
 
